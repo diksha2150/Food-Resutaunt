@@ -1,0 +1,12 @@
+.navignation-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navignation-menu li {
+  margin: 0px 20px;
+}
+.li {
+  color: green;
+}
